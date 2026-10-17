@@ -1,0 +1,6 @@
+{
+  "name": "ChromeOS Extension Hub & Unblocked Web",
+  "description": "Sistema de gestión e inyección de extensiones para páginas web de juegos y proxies en Chromebooks escolares (AdBlocker, Volume Master, Screenity, Panic Button y más).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
